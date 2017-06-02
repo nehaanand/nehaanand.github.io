@@ -1,0 +1,21 @@
+{
+  "name": "jekyll-holding-page-boilerplate",
+  "version": "1.0.0",
+  "description": "Jekyll holding page boiler plate created by JJ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neha Anand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nehaanand/jekyll-holding-page-boilerplate/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-stylus": "^2.3.0",
+    "gulp-watch": "^4.3.5"
+  }
+}

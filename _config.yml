@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Neha Anand
+tagline: SDE, Android Developer
+
+url: "" # the base hostname & protocol for your site
+
+# Used for theme in head.html, cannot be used in Stylus files
+color-primary: "#00bcd4"
+
+# contact
+author:
+  name: Neha Anand
+  url: http://github.com/nehaanand
+
+twitter_username: nehaanand
+stackoverflow_username: 6862760/neha
+github_username:  nehaanand
+googleplus_username: nehaanand
+linkedin_username: nehaanand
+resume: NehaAnandCV.pdf
+
+# Others
+markdown: kramdown
+
+# Exclude Stylus files, nodemodules, and gulpfile
+exclude: [node_modules, gulpfile.js, styl, npm-debug.log, Gemfile, Gemfile.lock, LICENSE, README.md, package.json]
